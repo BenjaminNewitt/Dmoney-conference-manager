@@ -5,7 +5,7 @@ let _state = {
   /** @type {Session[]} */
   // sessions: [new Session({name: "Morning Session", speakers: []}), new Session({name: "Midnight Session ", speakers: []})]
   sessions: []
-}; 
+};
 
 function _loadState() {
   try {
